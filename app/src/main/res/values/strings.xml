@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MyAvatar</string>
+
+    <string name="btnCrear">CREAR AVATAR</string>
+    <string name="btnSalir">Salir</string>
+
+    <string name="nombreDialog">Nombre</string>
+    <string name="placeHolderNombreAvatar">Introduce el nombre del avatar</string>
+    <string name="aceptarName">Aceptar</string>
+    <string name="cancelarName">Cancelar</string>
+
+    <string name="txtNombre">Nombre</string>
+    <string name="lblsexo">Sexo</string>
+    <string name="txtEspecie">Especie</string>
+    <string name="lblprofesion">Profesión</string>
+    <string name="imagenEspecie"></string>
+    <string name="imagenProfesion"></string>
+
+
+    <string name="txthombre">Hombre</string>
+    <string name="txtmujer">Mujer</string>
+
+    <string name="txtelfo">Elfo</string>
+    <string name="txtenano">Enano</string>
+    <string name="txthobbit">Hobbit</string>
+    <string name="txthumano">Humano</string>
+
+    <string name="txtarquero">Arquero</string>
+    <string name="txtguerrero">Guerrero</string>
+    <string name="txtmago">Mago</string>
+    <string name="txtherrero">Herrero</string>
+    <string name="txtminero">Minero</string>
+
+    <string name="txtvida">0-100</string>
+    <string name="txtmagia">0-10</string>
+    <string name="txtfuerza">0-20</string>
+    <string name="txtvelocidad">0-5</string>
+
+    <string-array name="arrayGenero">
+        <item>Seleccione el género</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+     </string-array>
+
+    <string-array name="arrayEspecie">
+        <item>Elfo</item>
+        <item>Enano</item>
+        <item>Hobbit</item>
+        <item>Humano</item>
+    </string-array>
+
+    <string-array name="arrayProfesion">
+        <item>Arquero</item>
+        <item>Guerrero</item>
+        <item>Mago</item>
+        <item>Herrero</item>
+        <item>Minero</item>
+    </string-array>
+
+    <string name="labelvida">HP</string>
+    <string name="labelmagia">MG</string>
+    <string name="labelfuerza">ST</string>
+    <string name="labelvelocidad">SP</string>
+
+</resources>
